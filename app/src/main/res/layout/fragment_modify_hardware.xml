@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+    >
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".ModifyHardwareFragment"
+        android:scrollbars="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/smartphone_interface_image"
+            android:src="@drawable/smartphone_interface"
+            android:layout_gravity="center"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/smartphone_interface"
+            android:layout_gravity="center"
+            android:textSize="25sp"/>
+
+        <Button
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:id="@+id/smartphone_interface_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/virtual_cockpit"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/virtual_cockpit"
+            android:layout_gravity="center"
+            android:textSize="25sp"/>
+
+        <Button
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:id="@+id/virtual_cockpit_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:scaleX="2.3"
+            android:src="@drawable/park_assist" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/park_assistant"
+            android:layout_gravity="center"
+            android:textSize="25sp"/>
+
+
+        <Button
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:id="@+id/park_assist_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/hill_start_assist"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hill_start_assist"
+            android:layout_gravity="center"
+            android:textSize="25sp"/>
+
+        <Button
+            android:textColor="#FFFFFF"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:id="@+id/hill_start_assist_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"/>
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+
+
+
+
+

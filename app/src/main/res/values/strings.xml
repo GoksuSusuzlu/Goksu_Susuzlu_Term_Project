@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Goksu Susuzlu_Term Project</string>
+    <string name="built_cars">Built Cars</string>
+    <string name="build_new_car_title">build New Car</string>
+
+
+
+    <string name="select_a_color">Select a color</string>
+    <string name="interior_button_text">Advance to ınterıor sectıon</string>
+    <string name="seats">Seats</string>
+    <string name="seats_display">Seats: </string>
+    <string name="steering_wheel">Steerıng Wheel</string>
+    <string name="steering_wheel_display">Steering wheel: </string>
+    <string name="lighting">Lıghtıng</string>
+    <string name="advance_to_hardware_section">Advance to Hardware Sectıon</string>
+    <string name="seat_furnishing">Seat Furnishing</string>
+    <string name="seat_furnishing_display">Seat Furnishing: </string>
+    <string name="seat_display">Seats: </string>
+    <string name="seat_type">Seat Type</string>
+    <string name="decorative_elements">Decoratıve elements</string>
+    <string name="virtual_cockpit">Virtual Cockpit</string>
+    <string name="park_assistant">Park assistant</string>
+    <string name="hill_start_assist">Hill Start Assist</string>
+    <string name="button_text_add">Add</string>
+    <string name="button_text_remove">Remove</string>
+    <string name="build_motor_text">Motor: </string>
+    <string-array name="car_colors">
+        <item>Crimson Red</item>
+        <item>Deep sea Blue</item>
+        <item>Metallic Gray</item>
+        <item>Night Black</item>
+        <item>Messiah White</item>
+        <item>Forest Green</item>
+        <item>Vitamin C Orange</item>
+
+    </string-array>
+
+    <string name="exterior_tab">Exterior</string>
+    <string name="interior_tab">Interior</string>
+    <string name="hardware_tab">Hardware</string>
+    <string name="delete_build">Delete buıld</string>
+    <string name="smartphone_interface">Smartphone Interface</string>
+    <string name="done">Done</string>
+    <string name="build_configuration_tool">Build Configuration Tool</string>
+    <string name="view_your_builds">Vıew your buılds</string>
+    <string name="create_a_new_build">Create a new buıld</string>
+    <string name="visit_website">Vısıt websıte</string>
+    <string name="exit_app">Exıt app</string>
+    <string name="select_color">Select Color</string>
+    <string name="rims">Rıms</string>
+    <string name="rims_display">Rims:</string>
+    <string name="headlights">headlıghts</string>
+    <string name="headlights_display">Headlights: </string>
+    <string name="bodycolor">"Bodycolor: "</string>
+    <string name="decorative_inserts_display">"Decorative inserts:  "</string>
+    <string name="select_seat_type">Select Seat Type</string>
+    <string name="modify_rims">Modify Rims</string>
+
+    <string name="select_steering_wheel">Select Steering Wheel</string>
+    <string name="select_model">Select Model</string>
+    <string name="your_builds">Your builds</string>
+    <string name="build_details">Build Details</string>
+    <string name="select_motor">Select Motor</string>
+    <string name="welcome">Welcome</string>
+    <string name="customize_interior_decorations">Customize interior Decorations</string>
+    <string name="headlights_selected">Headlights selected.</string>
+    <string name="rims_selected">Rims selected.</string>
+    <string name="seats_configured">Seats configured.</string>
+    <string name="steering_wheel_selected">Steering wheel selected.</string>
+    <string name="build_inserted">Build inserted into database</string>
+    <string name="build_failed">Failed to insert build into database.</string>
+
+
+</resources>
